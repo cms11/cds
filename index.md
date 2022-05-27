@@ -10,5 +10,3 @@ We provide sourcing and procurement solutions for:
 - Utilities Drilling
 
 [Support or Contact](mailto:info@canadiandrillingsupplies.com)
-
-![leaf](https://cratewearparts.com/wp-content/uploads/2022/05/canadian-maple-leaf-brands.png)
