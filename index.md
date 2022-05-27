@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Canadian Drilling Supplies
 
 Since 2016, we've delivered value-engineered foundation drilling tools and accessories that compete with world-famous brands.
