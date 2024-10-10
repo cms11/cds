@@ -29,6 +29,10 @@ a {
   a.more {
     font-weight: 600; }
 
+.navbar-brand {
+  max-width: 300px;
+}
+
 .custom-navbar {
   background: #0b4971 !important;
   padding-top: 20px;
